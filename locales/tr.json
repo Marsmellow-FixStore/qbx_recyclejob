@@ -1,0 +1,22 @@
+"success": {
+  "you_have_been_clocked_in": "Saat Girişi Yaptınız"
+},
+"text": {
+  "point_enter_warehouse": "[E] - Depoya Gir",
+  "enter_warehouse": "Depoya Gir",
+  "exit_warehouse": "Depodan Çık",
+  "point_exit_warehouse": "[E] - Depodan Çık",
+  "clock_out": "Saat Çıkışı",
+  "point_clock_out": "[E] - Saat Çıkışı",
+  "clock_in": "Saat Girişi",
+  "point_clock_in": "[E] - Saat Girişi",
+  "hand_in_package": "Paketi Teslim Et",
+  "point_hand_in_package": "[E] - Paketi Teslim Et",
+  "get_package": "Paket Al",
+  "point_get_package": "[E] - Paket Al",
+  "picking_up_the_package": "Paketi Almak",
+  "unpacking_the_package": "Paketi Açmak"
+},
+"error": {
+  "you_have_clocked_out": "Saat Çıkışı Yaptınız"
+}
